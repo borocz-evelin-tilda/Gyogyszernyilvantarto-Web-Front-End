@@ -3,7 +3,7 @@
         <div class="card">
             <div class="card-body">
                 <h1>Regisztráció</h1>
-                <p>Kérjük a regisztrációt kezelő orvosánál igényelje.</p>
+                <p>Kérjük a regisztrációt kezelő orvosánál igényelje!</p>
                 <hr>
 
                

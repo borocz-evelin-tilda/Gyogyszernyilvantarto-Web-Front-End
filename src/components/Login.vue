@@ -6,7 +6,7 @@
                 <div class="card-body">
                     <div class="form-group">
                         <label for="un">Felhasználónév:</label>
-                        <input v-model="user.username" ref="username" type="text" class="form-control" placeholder="Írja be a felhasználónevét..." name="un" />
+                        <input v-model="user.username" ref="username" type="text" class="form-control" placeholder="Kérem írja be a felhasználónevét..." name="un" />
                     </div>
                     <div class="form-group">
                         <label for="pwd">Jelszó:</label>

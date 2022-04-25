@@ -4,7 +4,7 @@
     <table class="basic-table">
         <thead>
             <tr>
-                <th>TAJ</th>
+                <th>TAJ szám</th>
                 <th>Felhasználónév</th>
                 <th>Név</th>
                  <th>Lakcím</th>

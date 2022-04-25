@@ -1,4 +1,4 @@
-//1.teszt jó
+//1.teszt működik
 
 /*import { shallowMount } from '@vue/test-utils'
 import Login from '@/components/Login.vue'
@@ -16,7 +16,7 @@ describe('Login.vue', () => {
 */
 
 
-//2.teszt jó
+//2.teszt működik
 
 import { shallowMount} from '@vue/test-utils'
 import PatientTable from '@/components/PatientTable.vue'

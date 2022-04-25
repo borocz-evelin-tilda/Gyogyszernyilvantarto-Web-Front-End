@@ -21,7 +21,7 @@ export default {
     head: {
        link: [
              {
-               //shortcut icon felülírása nem sikerült
+               //shortcut icon felülírása nem sikerült sehogy
                  rel: "icon",
                  href: require("./assets/favicon.png")
              },

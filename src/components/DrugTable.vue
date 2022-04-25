@@ -13,7 +13,7 @@
     <table class="basic-table">
         <thead>
             <tr>
-                <th>Gyógyszer Azonosítószám</th>
+                <th>Gyógyszer Azonosító</th>
                 <th>Vény nélkül kapható-e (igen: 0, nem 1)</th>
                 <th>Hatóanyagok</th>
                 <th>Gyógyszerkészítmény neve</th>

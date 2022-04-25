@@ -13,7 +13,7 @@
                 <div class="form-data" >
                      <h2>MHIS <br>Medicine Hospital Information System</h2>
                     </div>
-                     <h3>Kórházi Nyilvántartó rendszer</h3>
+                     <h3>Kórházi Nyilvántartó Rendszer</h3>
                     </div>
                     <div class="mb-3"> <div class="clearfix">
                          <button type="button" v-on:click="next">Tovább az oldalra >></button>

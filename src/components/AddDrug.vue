@@ -3,7 +3,7 @@
   <div class="container">
       <Layout title="AddDrug"></Layout>
       <p></p>
-      <h2>Gyógyszerkészítmény Felvétele: </h2>
+      <h2>Gyógyszerkészítmény Felvétele Adatbázisba: </h2>
  <label>Gyógyszer Azonosítószám: </label>
     <input v-model="drug.drugID" ref="drugID" type="number" />
     <br />

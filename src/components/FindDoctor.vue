@@ -5,7 +5,7 @@
     <table class="basic-table">
         <thead>
             <tr>
-                <th>Rendelő</th>
+                <th>Rendelők</th>
                 <th>Orvos</th>
                 <th>Email</th>
                 

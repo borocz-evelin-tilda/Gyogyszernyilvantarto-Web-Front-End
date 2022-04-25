@@ -3,7 +3,7 @@ import Login from "./components/Login.vue"
 import Register from "./components/Register.vue"
 import Home from "./views/Home.vue"
 
-
+//routing
 // lazy-loaded
 const PatientTable = () => import("./components/PatientTable.vue")
 const ExaminationTable = () => import("./components/ExaminationTable.vue")

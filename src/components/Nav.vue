@@ -1,7 +1,7 @@
  <template>
 <div class="clearfix">
      <button type="button" v-on:click="pd">Személyes Adatok</button>
-     <button type="button" v-on:click="ex">Vizsgálatai</button>
+     <button type="button" v-on:click="ex">Vizsgálatok</button>
     <button type="button" v-on:click="med">Gyógyszerei</button>
      <button type="button" v-on:click="doc">Partner Rendelők</button>
      </div>      
