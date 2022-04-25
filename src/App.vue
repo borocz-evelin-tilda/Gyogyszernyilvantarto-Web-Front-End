@@ -1,6 +1,7 @@
 <template>
    
     <div class="container">
+      <!-- router használat -->
       <router-view></router-view>
     </div>
 </template>
