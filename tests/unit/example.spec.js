@@ -16,7 +16,7 @@ describe('Login.vue', () => {
 */
 
 
-//2.teszt működik
+//2.teszt is működik
 
 import { shallowMount} from '@vue/test-utils'
 import PatientTable from '@/components/PatientTable.vue'
