@@ -5,7 +5,7 @@
     <table class="basic-table">
         <thead>
             <tr>
-                <th>Vizsgálat azonosítója/th>
+                <th>Vizsgálat azonosítója</th>
                 <th>Betegség azonosító száma</th>
                 <th>Vizsgálat dátuma</th>
                  <th>Felírt gyógyszer</th>
